@@ -1,6 +1,6 @@
 <img width="760" height="515" alt="Screenshot 2025-09-03 112754" src="https://github.com/user-attachments/assets/95e3a4b8-9961-44f7-9f68-271e86bc3103" />
 👇
-BAsic understanding java mysql and awt package of java
+Basic understanding java mysql and awt package of java
 📌 Expense Tracker (Java + MySQL + GUI)
 📖 Project Description
 
